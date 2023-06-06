@@ -13,7 +13,7 @@ The requirements fo this assignment and the steps undertaken by me are as under:
 
 ## Step wise process
 
-- Download the data dn unzip it
+- Download the data and unzip it
 - Had a look at the readme wordpad files ot understand and orient about the data
 - Read the various files in the data - start with labels and then go on to look at the 2 datasets - Test and Train
 - Merge the apples to apples data from Test and Train sets
