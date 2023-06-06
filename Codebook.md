@@ -20,5 +20,5 @@ The requirements fo this assignment and the steps undertaken by me are as under:
 - Adjusted the names of colums for readability
 - Combining datasets
 - Taking only measurements on mean and standard deviation
-- Creating a econd independednt data set with the average of each variable for each activity and each subject.
+- Creating a second independednt tidy data set with the average of each variable for each activity and each subject.
 - Saving the new data set to the local system
