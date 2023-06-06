@@ -17,7 +17,7 @@ The requirements fo this assignment and the steps undertaken by me are as under:
 - Had a look at the readme wordpad files ot understand and orient about the data
 - Read the various files in the data - start with labels and then go on to look at the 2 datasets - Test and Train
 - Merge the apples to apples data from Test and Train sets
-- Adjusted the names of colums for readability
+- Adjusted the names of colums for readability; to note - the names can be further adjusted for readability and greater description
 - Combining datasets
 - Taking only measurements on mean and standard deviation
 - Creating a second independednt tidy data set with the average of each variable for each activity and each subject.
